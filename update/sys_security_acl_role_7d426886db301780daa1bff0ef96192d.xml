@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-13 12:49:42</sys_created_on>
+        <sys_id>7d426886db301780daa1bff0ef96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_lowesdatacen_lowesdatacentervisitor.x_snc_lowesdatacen.user</sys_name>
+        <sys_package display_value="LowesDatacenterVisitor" source="x_snc_lowesdatacen">b1426046db301780daa1bff0ef9619cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LowesDatacenterVisitor">b1426046db301780daa1bff0ef9619cb</sys_scope>
+        <sys_security_acl display_value="x_snc_lowesdatacen_lowesdatacentervisitor">71426886db301780daa1bff0ef96192b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7d426886db301780daa1bff0ef96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-13 12:49:42</sys_updated_on>
+        <sys_user_role display_value="x_snc_lowesdatacen.user" name="x_snc_lowesdatacen.user">bd422886db301780daa1bff0ef9619b5</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
