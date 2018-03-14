@@ -4,6 +4,7 @@
         <element label="Date Time In" max_length="40" name="u_date_time_in" type="glide_date_time"/>
         <element label="Date Time Out" max_length="40" name="u_date_time_out" type="glide_date_time"/>
         <element label="DC Location" max_length="32" name="u_dc_location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Visitor Email" max_length="40" name="u_visitor_email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="u_visitor_firstname" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="u_visitor_lastname" type="string"/>
     </element>
